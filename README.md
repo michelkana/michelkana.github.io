@@ -1,8 +1,7 @@
 
-[Repositories](#my-code-repositories) |  [Blogs](#my-blogs)
+[Repositories on GitHub](#my-code-repositories) |  [Blogs on Medium](#my-blogs) | [LinkedIn Profile](https://www.linkedin.com/in/michelkana/)
 
-
-Find me on **[LinkedIn](https://www.linkedin.com/in/michelkana/)** or **[Medium](https://medium.com/@michel.kana/)**
+<br>
 
 # My Code Repositories
 
