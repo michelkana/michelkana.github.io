@@ -1,37 +1,68 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/michelkana/michelkana.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+# Code Repositories
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**[Harvard's first Data Science Animation Contest](https://github.com/michelkana/Harvard-DS-Animation)** 
+<br>**Python, Jupyter Notebook, Pandas, Geopandas, Seaborn, Matplotlib**<br> 
+- An animated map of inequality in peer-2-peer lending as a showcase of Exploratory Data Analysis
 
-### Markdown
+**[cs109a-Harvard-Introduction-to-Datascience](https://github.com/michelkana/cs109a-Harvard-Introduction-to-Datascience)**
+<br>**Python, Keras, TensorFlow, Sklearn, Statsmodels, Pandas, Seaborn, BeautifulSoup**<br>
+- web scrapping, exploratory data analysis, missing data in diabetes datasets
+- k-nearest neighbor, linear regression, predicting taxi pickups in New York city
+- multicollinearity, features selection, model selection, predicting the hourly demand for rental bikes
+- classification models to distinguish between cancer types using gene expression measurements
+- cross-validation, model selection with Ridge regularization, principal components analysis
+- logistic regression, LDA/QDA, Trees for diagnosing disorders in a patient's thyroid gland
+- classification of Higgs bosons from noise in the HIGGS data set using Bagging, Random Forests, Boosting and Staking
+- recognizing handwritten digits using a regularized fully connected neural network with Keras
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+**[Loan charge-off prediction and investment strategy analysis](https://github.com/michelkana/lendingclub)**
+<br>**Python, AWS Deep Learning, EC2, MLP, Sklearn, Pandas, Seaborn**<br>
+- data consolidation, cleaning, features engineering
+- exploratory data analysis, hypothesis building
+- classification with logistic regression, ada boosting, random forests, decision tree classifier, kNN, multi-layer perceptron, support vector machine, naive bayes, stacking
+- precision, recall, F1 score, area under ROC curve, log-loss and cross validation accuracy score
+- statistical parity, model fairness check, disparate impact analysis
 
-# Header 1
-## Header 2
-### Header 3
+**[Peer-2-Peer Mobile Money Platform using SMS and simple phones](https://github.com/michelkana/SMS-mobile-money-platform)**
+<br>**Java, SQL, MySQL**<br>
+- serial communication with Phone via AT commands
+- SMS processing
+- eBanking backend-end logic and database
 
-- Bulleted
-- List
+**[Universal Quiz Generator for Smartphones](https://github.com/michelkana/Universal-Quiz-Generator)**
+<br>**Java, Android SDK, Eclipse**<br>
+- symbolic language for quiz data description
+- generates multiple choices based on words similarity (Levenshtein distance algorithm)
+- support text, images and audio data
+- provides customizable screens for quiz, learning and data filtering modes
+- examples using Vietnamese language
 
-1. Numbered
-2. List
+**[Modeling and Simulation Biological Processes](https://github.com/michelkana/17ABBMS-Modelling-and-Simulation-Course)**
+<br>**Matlab, Simulink**<br>
+- differential equations simulating most known population models: Malthus, Logistic, Lotka-Volterra, Kolmogorov, Leslie, SIR
+- simulation and analysis of pharmacokinetics models
+- model identifiability analysis
+- calculation of transfer function for linear time invariant systems
+- cost function optimization, parameters estimation and residuals analysis
+- [additional repository with more models](https://github.com/michelkana/17PBBMS-Modelling-and-Simulation-Lab), e.g. cardiovascular models
+- [models used in my book are found here](https://github.com/michelkana/Modeling-Tutorial)
 
-**Bold** and _Italic_ and `Code` text
+**[Hospital Information System](https://github.com/michelkana/17PBINIS-Hospital-Information-System-Lab)**
+<br>**PHP, SQL, MySQL, Java, Android SDK**<br>
+- simple healthcare software for patients registration, calendar management, ..etc
 
-[Link](url) and ![Image](src)
-```
+# Blog
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+**[Redlining: Mapping Inequality in Peer-2-Peer Lending using Geopandas — Part 2](https://towardsdatascience.com/redlining-mapping-inequality-in-peer-2-peer-lending-using-geopandas-part-2-9d8af584df0b)**
+<br>
 
-### Jekyll Themes
+**[Mapping Inequality in Peer-2-Peer Lending using Geopandas — Part 1](https://towardsdatascience.com/mapping-inequality-in-peer-2-peer-lending-using-geopandas-part-1-b8c7f883d1ba)**
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/michelkana/michelkana.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+**[LendingClub: bias in data? Machine learning and investment strategy](https://medium.com/@michel.kana/lendingclub-bias-in-data-machine-learning-and-investment-strategy-3a3bd1c65f0)**
 
-### Support or Contact
+**[6th sense: Are we Communicating using Invisible Light? Biophotons and DNA.](https://medium.com/@michel.kana/6th-sense-are-we-communicating-using-invisible-light-biophotons-and-dna-847c13edae4f)**
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+**[6th Sense: Are We Communicating Using Invisible Light? Biophotons and DNA — Part 2](https://medium.com/@michel.kana/6th-sense-are-we-communicating-using-invisible-light-biophotons-and-dna-part-2-1166bed3a852)**
+
