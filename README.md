@@ -10,6 +10,7 @@ Find me on **[LinkedIn](https://www.linkedin.com/in/michelkana/)** or **[Medium]
 <br>**Python, Jupyter Notebook, Pandas, Geopandas, Seaborn, Matplotlib**<br> 
 - An animated map of inequality in peer-2-peer lending as a showcase of Exploratory Data Analysis
 
+
 **[My Homeworks at CS109a Harvard Introduction to Datascience](https://github.com/michelkana/cs109a-Harvard-Introduction-to-Datascience)**
 <br>**Python, Keras, TensorFlow, Sklearn, Statsmodels, Pandas, Seaborn, BeautifulSoup**<br>
 - web scrapping, exploratory data analysis, missing data in diabetes datasets
@@ -22,6 +23,7 @@ Find me on **[LinkedIn](https://www.linkedin.com/in/michelkana/)** or **[Medium]
 - recognizing handwritten digits using a regularized fully connected neural network with Keras
 
 
+
 **[Project about Loan charge-off prediction and investment strategy analysis](https://github.com/michelkana/lendingclub)**
 <br>**Python, AWS Deep Learning, EC2, MLP, Sklearn, Pandas, Seaborn**<br>
 - data consolidation, cleaning, features engineering
@@ -30,11 +32,15 @@ Find me on **[LinkedIn](https://www.linkedin.com/in/michelkana/)** or **[Medium]
 - precision, recall, F1 score, area under ROC curve, log-loss and cross validation accuracy score
 - statistical parity, model fairness check, disparate impact analysis
 
+
+
 **[Peer-2-Peer Mobile Money Platform using SMS and simple phones](https://github.com/michelkana/SMS-mobile-money-platform)**
 <br>**Java, SQL, MySQL**<br>
 - serial communication with Phone via AT commands
 - SMS processing
 - eBanking backend-end logic and database
+
+
 
 **[Universal Quiz Generator for Smartphones](https://github.com/michelkana/Universal-Quiz-Generator)**
 <br>**Java, Android SDK, Eclipse**<br>
@@ -43,6 +49,8 @@ Find me on **[LinkedIn](https://www.linkedin.com/in/michelkana/)** or **[Medium]
 - support text, images and audio data
 - provides customizable screens for quiz, learning and data filtering modes
 - examples using Vietnamese language
+
+
 
 **[Modeling and Simulation Biological Processes](https://github.com/michelkana/17ABBMS-Modelling-and-Simulation-Course)**
 <br>**Matlab, Simulink**<br>
@@ -54,9 +62,13 @@ Find me on **[LinkedIn](https://www.linkedin.com/in/michelkana/)** or **[Medium]
 - [additional repository with more models](https://github.com/michelkana/17PBBMS-Modelling-and-Simulation-Lab), e.g. cardiovascular models
 - [models used in my book are found here](https://github.com/michelkana/Modeling-Tutorial)
 
+
+
 **[Hospital Information System](https://github.com/michelkana/17PBINIS-Hospital-Information-System-Lab)**
 <br>**PHP, SQL, MySQL, Java, Android SDK**<br>
 - simple healthcare software for patients registration, calendar management, ..etc
+
+
 
 # My Blogs
 
