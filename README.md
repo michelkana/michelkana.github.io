@@ -1,5 +1,5 @@
 
-[Repositories](#Repositories) | [Blogs](#Blogs)
+[Repositories](#Repositories)  [Blogs](#Blogs)
 
 
 Find me on **[LinkedIn](https://www.linkedin.com/in/michelkana/)** or **[Medium](https://medium.com/@michel.kana/)**
