@@ -1,11 +1,16 @@
 
-# Code Repositories
+[Repositories](#My Code Repositories) | [Blogs](#Blogs)
 
-**[Harvard's first Data Science Animation Contest](https://github.com/michelkana/Harvard-DS-Animation)** 
+
+Find me on **[LinkedIn](https://www.linkedin.com/in/michelkana/)** or **[Medium](https://medium.com/@michel.kana/)**
+
+# My Code Repositories
+
+**[Contribution to Harvard's first Data Science Animation Contest](https://github.com/michelkana/Harvard-DS-Animation)** 
 <br>**Python, Jupyter Notebook, Pandas, Geopandas, Seaborn, Matplotlib**<br> 
 - An animated map of inequality in peer-2-peer lending as a showcase of Exploratory Data Analysis
 
-**[cs109a-Harvard-Introduction-to-Datascience](https://github.com/michelkana/cs109a-Harvard-Introduction-to-Datascience)**
+**[My Homeworks at CS109a Harvard Introduction to Datascience](https://github.com/michelkana/cs109a-Harvard-Introduction-to-Datascience)**
 <br>**Python, Keras, TensorFlow, Sklearn, Statsmodels, Pandas, Seaborn, BeautifulSoup**<br>
 - web scrapping, exploratory data analysis, missing data in diabetes datasets
 - k-nearest neighbor, linear regression, predicting taxi pickups in New York city
@@ -17,7 +22,7 @@
 - recognizing handwritten digits using a regularized fully connected neural network with Keras
 
 
-**[Loan charge-off prediction and investment strategy analysis](https://github.com/michelkana/lendingclub)**
+**[Project about Loan charge-off prediction and investment strategy analysis](https://github.com/michelkana/lendingclub)**
 <br>**Python, AWS Deep Learning, EC2, MLP, Sklearn, Pandas, Seaborn**<br>
 - data consolidation, cleaning, features engineering
 - exploratory data analysis, hypothesis building
@@ -53,7 +58,7 @@
 <br>**PHP, SQL, MySQL, Java, Android SDK**<br>
 - simple healthcare software for patients registration, calendar management, ..etc
 
-# Blog
+# Blogs
 
 **[Redlining: Mapping Inequality in Peer-2-Peer Lending using Geopandas — Part 2](https://towardsdatascience.com/redlining-mapping-inequality-in-peer-2-peer-lending-using-geopandas-part-2-9d8af584df0b)**
 <br>
