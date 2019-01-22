@@ -1,10 +1,10 @@
 
-[Repositories](#My Code Repositories) | [Blogs](#Blogs)
+[Repositories](#Repositories) | [Blogs](#Blogs)
 
 
 Find me on **[LinkedIn](https://www.linkedin.com/in/michelkana/)** or **[Medium](https://medium.com/@michel.kana/)**
 
-# My Code Repositories
+# Repositories
 
 **[Contribution to Harvard's first Data Science Animation Contest](https://github.com/michelkana/Harvard-DS-Animation)** 
 <br>**Python, Jupyter Notebook, Pandas, Geopandas, Seaborn, Matplotlib**<br> 
