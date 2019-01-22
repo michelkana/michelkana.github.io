@@ -1,10 +1,10 @@
 
-[Repositories](#Repositories)  [Blogs](#Blogs)
+[Repositories](#my-code-repositories) |  [Blogs](#my-blogs)
 
 
 Find me on **[LinkedIn](https://www.linkedin.com/in/michelkana/)** or **[Medium](https://medium.com/@michel.kana/)**
 
-# Repositories
+# My Code Repositories
 
 **[Contribution to Harvard's first Data Science Animation Contest](https://github.com/michelkana/Harvard-DS-Animation)** 
 <br>**Python, Jupyter Notebook, Pandas, Geopandas, Seaborn, Matplotlib**<br> 
@@ -58,7 +58,7 @@ Find me on **[LinkedIn](https://www.linkedin.com/in/michelkana/)** or **[Medium]
 <br>**PHP, SQL, MySQL, Java, Android SDK**<br>
 - simple healthcare software for patients registration, calendar management, ..etc
 
-# Blogs
+# My Blogs
 
 **[Redlining: Mapping Inequality in Peer-2-Peer Lending using Geopandas — Part 2](https://towardsdatascience.com/redlining-mapping-inequality-in-peer-2-peer-lending-using-geopandas-part-2-9d8af584df0b)**
 <br>
