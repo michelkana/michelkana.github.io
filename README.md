@@ -85,7 +85,7 @@
 
 **[6th Sense: Are We Communicating Using Invisible Light? Biophotons and DNA — Part 2](https://medium.com/@michel.kana/6th-sense-are-we-communicating-using-invisible-light-biophotons-and-dna-part-2-1166bed3a852)**
 
-# My Projets
+# My Projects
 
 [Redlining: Mapping Inequality in Peer-2-Peer Lending using Geopandas](https://towardsdatascience.com/mapping-inequality-in-peer-2-peer-lending-using-geopandas-part-1-b8c7f883d1ba)
 
