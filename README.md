@@ -1,5 +1,5 @@
 
-[Repositories on GitHub](#my-code-repositories) |  [Blogs on Medium](#my-blogs) | [LinkedIn Profile](https://www.linkedin.com/in/michelkana/)
+[Repositories on GitHub](#my-code-repositories) |  [Blogs on Medium](#my-blogs) | [LinkedIn Profile](https://www.linkedin.com/in/michelkana/) | [Projects](#my-projects) | [Publications](#my-publications)
 
 <br>
 
@@ -8,9 +8,9 @@
 **[Contribution to Harvard's first Data Science Animation Contest](https://github.com/michelkana/Harvard-DS-Animation)** 
 <br>**Python, Jupyter Notebook, Pandas, Geopandas, Seaborn, Matplotlib**<br> 
 - An animated map of inequality in peer-2-peer lending as a showcase of Exploratory Data Analysis
+- web data scrapping, barplot, boxplot, scatterplot, histograms, heatmap, features engineering, geo maps generation
 
-
-**[My Homeworks at CS109a Harvard Introduction to Datascience](https://github.com/michelkana/cs109a-Harvard-Introduction-to-Datascience)**
+**[Statistical learning projects](https://github.com/michelkana/Statistical-Learning-Projects)**
 <br>**Python, Keras, TensorFlow, Sklearn, Statsmodels, Pandas, Seaborn, BeautifulSoup**<br>
 - web scrapping, exploratory data analysis, missing data in diabetes datasets
 - k-nearest neighbor, linear regression, predicting taxi pickups in New York city
@@ -71,8 +71,11 @@
 
 # My Blogs
 
-**[Redlining: Mapping Inequality in Peer-2-Peer Lending using Geopandas — Part 2](https://towardsdatascience.com/redlining-mapping-inequality-in-peer-2-peer-lending-using-geopandas-part-2-9d8af584df0b)**
+**[White Holes in the universe: a kid’s theory of everything](https://medium.com/@michel.kana/white-holes-a-kids-theory-of-everything-e7c435d35d67)**
 <br>
+
+**[Redlining: Mapping Inequality in Peer-2-Peer Lending using Geopandas — Part 2](https://towardsdatascience.com/redlining-mapping-inequality-in-peer-2-peer-lending-using-geopandas-part-2-9d8af584df0b)**
+
 
 **[Mapping Inequality in Peer-2-Peer Lending using Geopandas — Part 1](https://towardsdatascience.com/mapping-inequality-in-peer-2-peer-lending-using-geopandas-part-1-b8c7f883d1ba)**
 
@@ -82,3 +85,34 @@
 
 **[6th Sense: Are We Communicating Using Invisible Light? Biophotons and DNA — Part 2](https://medium.com/@michel.kana/6th-sense-are-we-communicating-using-invisible-light-biophotons-and-dna-part-2-1166bed3a852)**
 
+# My Projets
+
+[Redlining: Mapping Inequality in Peer-2-Peer Lending using Geopandas](https://towardsdatascience.com/mapping-inequality-in-peer-2-peer-lending-using-geopandas-part-1-b8c7f883d1ba)
+
+[Low Code Platform for Laravel Developers](https://www.digintu.tech/)
+
+[Assessing the Level of Autonomic Nervous Activity for Effective Biofeedback Training](https://arxiv.org/abs/1902.05845)
+
+[Mobile Application for Invoicing and Taxes Declaration](https://play.google.com/store/apps/details?id=eu.unicornsystems.osvc&hl=en)
+
+# My Publications
+
+[Tutorial for Modeling and Simulation of Biological Processes](https://www.amazon.com/dp/B07MRFH8ZW)
+
+[Cardiac Autonomic Tests: Experimental Setups For Clinical Trials](https://t.co/75WjCYu7X6)
+
+[Mathematical Model-based Markers of Autonomic Nervous Activity during the Valsalva Maneuver and Comparison to Heart Rate Variability](http://www.sciencedirect.com/science/article/pii/S1746809411000413)
+
+[Assessment of parasympathetic activity on cardiovascular system using artificial neural networks](http://www.medvik.cz/bmc/view.do?cgid=858999&ctype=iso)
+
+[Estimation of Sympathetic and Parasympathetic Level during Orthostatic Stress Using Artificial Neural Networks](http://link.springer.com/chapter/10.1007%2F978-3-642-05022-0_73)
+
+[PhD Thesis - Mathematical models of cardiovascular control by the autonomic nervous system](https://arxiv.org/abs/1901.05071)
+
+[A Web-based Software Package for Clinical Cardiac Autonomic Tests](http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=5302045&url=http%3A%2F%2Fieeexplore.ieee.org%2Fxpls%2Fabs_all.jsp%3Farnumber%3D5302045)
+
+[Feedback-Feedforward Model of the Cold Face Test Response](http://link.springer.com/chapter/10.1007%2F978-3-642-03882-2_430)
+
+[Model of Cardiovascular Control During Valsalva Maneuver](http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=5394408&url=http%3A%2F%2Fieeexplore.ieee.org%2Fxpls%2Fabs_all.jsp%3Farnumber%3D5394408)
+
+[Cardiac Response to Autonomic Tests with Cold Stimulus in Horses](https://www.muni.cz/research/publications/860044)
