@@ -5,10 +5,20 @@
 
 # My Code Repositories
 
+**[Deep learning & crazy projects](https://github.com/michelkana/Deep-learning-projects)**
+<br>**Python, Keras, TensorFlow, Sklearn, Statsmodels, Pandas, Seaborn, BeautifulSoup**<br>
+- Smoothers and Generalized Additive Models - predict the price of an Airbnb rental
+- Fully Connected Neural Networks - Classifying galaxies
+- Convolutional Neural Networks - Classifying gravitational waves from the LIGO observatory
+- Recurrent Neural Networks - Named Entity Recognition
+- Clustering and Reinforcement Learning - Hand posture recognition & Frozen Lake agent training
+
+
 **[Contribution to Harvard's first Data Science Animation Contest](https://github.com/michelkana/Harvard-DS-Animation)** 
 <br>**Python, Jupyter Notebook, Pandas, Geopandas, Seaborn, Matplotlib**<br> 
 - An animated map of inequality in peer-2-peer lending as a showcase of Exploratory Data Analysis
 - web data scrapping, barplot, boxplot, scatterplot, histograms, heatmap, features engineering, geo maps generation
+
 
 **[Statistical learning projects](https://github.com/michelkana/Statistical-Learning-Projects)**
 <br>**Python, Keras, TensorFlow, Sklearn, Statsmodels, Pandas, Seaborn, BeautifulSoup**<br>
@@ -20,7 +30,6 @@
 - logistic regression, LDA/QDA, Trees for diagnosing disorders in a patient's thyroid gland
 - classification of Higgs bosons from noise in the HIGGS data set using Bagging, Random Forests, Boosting and Staking
 - recognizing handwritten digits using a regularized fully connected neural network with Keras
-
 
 
 **[Project about Loan charge-off prediction and investment strategy analysis](https://github.com/michelkana/lendingclub)**
@@ -70,6 +79,12 @@
 
 
 # My Blogs
+
+**[Trends in digital transformation: low code and AI](https://www.linkedin.com/pulse/trends-digital-transformation-low-code-ai-michel-kana-phd)**
+<br>
+
+**[Wild Wide AI: responsible data science](https://towardsdatascience.com/wild-wide-ai-responsible-data-science-16b860e1efe9)**
+<br>
 
 **[White Holes in the universe: a kid’s theory of everything](https://medium.com/@michel.kana/white-holes-a-kids-theory-of-everything-e7c435d35d67)**
 <br>
