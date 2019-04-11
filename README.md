@@ -6,7 +6,7 @@
 # My Code Repositories
 
 **[Deep learning & crazy projects](https://github.com/michelkana/Deep-learning-projects)**
-<br>**Python, Keras, TensorFlow, Sklearn, Statsmodels, Pandas, Seaborn, BeautifulSoup**<br>
+<br>**Python, rpy2, keras, sklearn, scipy, skimage, tensorflow, gym, pylab **<br>
 - Smoothers and Generalized Additive Models - predict the price of an Airbnb rental
 - Fully Connected Neural Networks - Classifying galaxies
 - Convolutional Neural Networks - Classifying gravitational waves from the LIGO observatory
