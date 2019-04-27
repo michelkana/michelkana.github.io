@@ -12,7 +12,10 @@
 - Convolutional Neural Networks - Classifying gravitational waves from the LIGO observatory
 - Recurrent Neural Networks - Named Entity Recognition
 - Clustering and Reinforcement Learning - Hand posture recognition & Frozen Lake agent training
-
+- Latent Dirichlet Allocation - Topic modeling of President Donal Trump's tweets
+- Bayesian Logistic Regression - Prediction of contraceptive usage by women
+- Variational Autoencoder - Generation of fake faces using VAE models trained on 202,599 face images of 10,177 celebrities.
+- Generative Adverserial Network - Generation of fake animation characters using DCGAN and VAE-DCGAN models trained on 20,000 anime faces from Japanese characters.
 
 **[Contribution to Harvard's first Data Science Animation Contest](https://github.com/michelkana/Harvard-DS-Animation)** 
 <br>**Python, Jupyter Notebook, Pandas, Geopandas, Seaborn, Matplotlib**<br> 
