@@ -74,6 +74,18 @@
 - [models used in my book are found here](https://github.com/michelkana/Modeling-Tutorial)
 
 
+**[Biological Signals Processing](https://github.com/michelkana/17AMBBLS-Biological-Signals-Processing)**
+<br>**Physiology, Signals structure, Data Acquisition tutorials with BIOPAC MP35, Data Analysis with BIOPAC AcqKnowledge & Matlab**<br>
+- Electrocardiogram (ECG) and Heart rate variability (HVR)
+- Galvanic Skin Response (GSR)
+- Photoplethysmography signal (PPG)
+- Respiration signal (Resp)
+- Electromyogram (EMG)
+- Electroencephalogram (EEG)
+- Electrooculography signal (EOG)
+- Heart rate variability with Fast Fourier Transform in Matlab
+- Heart rate variability with Wavelet Transform in Matlab
+
 
 **[Hospital Information System](https://github.com/michelkana/17PBINIS-Hospital-Information-System-Lab)**
 <br>**PHP, SQL, MySQL, Java, Android SDK**<br>
